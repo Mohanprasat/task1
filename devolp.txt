@@ -1,0 +1,9 @@
+this is a devolp 
+file devlope.txt 
+1.devops
+
+plan
+code
+build
+text
+
